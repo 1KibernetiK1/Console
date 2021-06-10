@@ -1,0 +1,7 @@
+C:\Users\12345\Desktop\Учеба\Shedule\Shedule\bin\Debug\Shedule.exe.config
+C:\Users\12345\Desktop\Учеба\Shedule\Shedule\bin\Debug\Shedule.exe
+C:\Users\12345\Desktop\Учеба\Shedule\Shedule\bin\Debug\Shedule.pdb
+C:\Users\12345\Desktop\Учеба\Shedule\Shedule\obj\Debug\Shedule.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Учеба\Shedule\Shedule\obj\Debug\Shedule.exe
+C:\Users\12345\Desktop\Учеба\Shedule\Shedule\obj\Debug\Shedule.pdb
+C:\Users\12345\Desktop\Учеба\Shedule\Shedule\obj\Debug\Shedule.csprojAssemblyReference.cache
